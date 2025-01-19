@@ -1,4 +1,4 @@
-# plagiarism_checker-chatbot
+# plagiarism_checker + chatbot using Streamlit
 A web app built with Streamlit that offers two main features: plagiarism checking (comparing text files or pasted content) and a chatbot powered by Ollama Gemma2:2b. Users can upload PDF/Word files for plagiarism detection and interact with the chatbot for NLP-related queries.
 Plagiarism Checker & Chatbot Application
 This application combines two functionalities: a Plagiarism Checker and a Chatbot. The Plagiarism Checker allows users to compare two pieces of text (from PDF or Word files or pasted text) and calculate their similarity. The Chatbot provides educational responses about plagiarism and plagiarism detection using Natural Language Processing (NLP) techniques.
